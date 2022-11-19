@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "@ckeditor/ckeditor5-alignment": "^16.0.0",
-        "@symfony/webpack-encore": "^0.28.0",
+        "@symfony/webpack-encore": "^4.1.1",
         "core-js": "^3.6.4",
         "node-sass": "^4.13.1",
         "regenerator-runtime": "^0.13.2",
